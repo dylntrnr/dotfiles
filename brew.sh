@@ -96,6 +96,8 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install zopfli
+brew install --cask bettertouchtool
+brew install --cask clipy
 
 # Remove outdated versions from the cellar.
 brew cleanup
